@@ -1,20 +1,26 @@
-# Modern UI/UX GPT-3
-### [Live Site](https://gpt3-jsm.com/)
+# Modern UI WEB-3 DESIGN
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
+## Installation
+To run this project locally, follow these steps:
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+* Clone the repository.
+* Run `npm install` to install the required dependencies.
 
-You might be wondering, what are the prerequisites for building such an amazing website? Don't worry, this course is completely beginner-friendly! We're going to start easy and them move to more complex topics. Every step of the way will be explained. Alongside building the website, you'll learn:
+## Usage
+* Run `npm start` to start the development server.
+* Open your browser and navigate to http://localhost:3000 to view the app.
 
-- React Functional components and their reusability
-- React file and folder structure
-- Fundamental CSS properties to master flex & grid
-- Fundamentals of the CSS BEM Model
-- From soft and pleasant animations to complex gradients
-- Perfectly placed media queries for satisfactory responsiveness covering almost devices
-- And at the end you'll learn how to deploy your websites to extremely fast servers and give them a custom domain name.
+## Components
+* CTA: Description of CTA component.
+* Brand: Description of Brand component.
+* Navbar: Description of Navbar component.
+* Footer: Description of Footer component.
+
+## Containers
+* Header: Description of Header container.
+* WhatGPT3: Description of WhatGPT3 container.
+* Features: Description of Features container.
+* Possibility: Description of Possibility container.
+* Blog: Description of Blog container.
